@@ -1,0 +1,13 @@
+hello2 
+<<<<<<< HEAD
+world2 
+ my name is D!! 
+my name is DEV!!
+=======
+ my n!! 
+ my name!! 
+ my name i!! 
+>>>>>>> Branch1
+instruction4 
+instruction4_new 
+instruction5 
