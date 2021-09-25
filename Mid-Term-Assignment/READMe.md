@@ -13,12 +13,13 @@
 		
 	
 #### Assignment 2:	
-    3. Ansible Playbook Exercise
+    3. Ansible Playbook Exercise, https://www.middlewareinventory.com/blog/ansible-git-example/
 	
 	
 	
 #### Assignment 3:	
     5. Add users to EC2 instances with SSH Access – Ansible
+    https://www.middlewareinventory.com/blog/add-users-to-ec2-instances-with-ssh-access-ansible/
     
 ##
 ##
