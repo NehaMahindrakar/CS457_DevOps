@@ -13,7 +13,8 @@
 		
 	
 #### Assignment 2:	
-    3. Ansible Playbook Exercise , https://www.middlewareinventory.com/blog/ansible-git-example/
+    3. Ansible Playbook Exercise 
+    https://www.middlewareinventory.com/blog/ansible-git-example/
 	
 	
 	
