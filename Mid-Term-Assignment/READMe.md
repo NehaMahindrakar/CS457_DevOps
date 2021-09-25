@@ -1,4 +1,5 @@
-# Assignment Questions
+# MID-TERM ASSIGNMENT
+## Submitted By: Team4
 
 ## Assignment 1:
 	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
@@ -15,7 +16,7 @@
     
 ##
 ##
-## By Team4 :
+## Team Details :
 
 1.Sreehari Premkumar	18BEC045	https://github.com/sreeharipremkumar <br>
 2.Neha Mahindrakar	18BEC032	https://github.com/NehaMahindrakar/CS457_DevOps <br>
