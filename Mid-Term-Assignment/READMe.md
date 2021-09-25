@@ -7,7 +7,7 @@
 
 #### Assignment 1:
 	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
-	https://www.mirantis.com/blog/install-kubernetes-apps-helm/
+	[Refer](/https://www.mirantis.com/blog/install-kubernetes-apps-helm/)
 	https://docs.bitnami.com/tutorials/create-your-first-helm-chart/
 
 		
