@@ -1,19 +1,21 @@
-<p align="center"> ## MID-TERM ASSIGNMENT
-## Submitted By: Team4 </p>
 
-### Tasks:
+# MID-TERM ASSIGNMENT
+## Submitted By: Team4
+			
 
-## Assignment 1:
+## Tasks:
+
+### Assignment 1:
 	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
 
 		
 	
-## Assignment 2:	
+### Assignment 2:	
     3. Ansible Playbook Exercise
 	
 	
 	
-## Assignment 3:	
+### Assignment 3:	
     5. Add users to EC2 instances with SSH Access – Ansible
     
 ##
