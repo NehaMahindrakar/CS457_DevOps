@@ -22,7 +22,7 @@
 ##
 ## Team Details :
 <pre>
-1.Sreehari Premkumar 	18BEC045	[a link](https://github.com/sreeharipremkumar)
+1.Sreehari Premkumar 	18BEC045	https://github.com/sreeharipremkumar
 2.Neha Mahindrakar	18BEC032	https://github.com/NehaMahindrakar/CS457_DevOps 
 3.Palshini B Limbani	18BCS062	https://github.com/Palshini-B-Limbani/devops#devops 
 4.Kavana S Salunkhe	18BCS039	https://github.com/KAVANA-S-SALUNKHE/Devops_midterm_assignment 
