@@ -14,7 +14,7 @@
     3. Ansible Playbook Exercise 
     
 	
-	
+[More Details of the Assignment](https://docs.google.com/spreadsheets/d/1FLp-b2S_nVCn0yG1u8i69VkXTBJCCZNxt7pagnxLvV4/edit#gid=1740544038) 	
 	
 #### Assignment 3:	
     5. Add users to EC2 instances with SSH Access – Ansible
