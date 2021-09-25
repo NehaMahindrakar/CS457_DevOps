@@ -6,21 +6,19 @@
 ## Tasks:
 
 #### Assignment 1:
-	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
-	.[Refer](/https://www.mirantis.com/blog/install-kubernetes-apps-helm/)
-	https://docs.bitnami.com/tutorials/create-your-first-helm-chart/
+	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package  
 
 		
 	
 #### Assignment 2:	
     3. Ansible Playbook Exercise 
-    https://www.middlewareinventory.com/blog/ansible-git-example/
+    
 	
 	
 	
 #### Assignment 3:	
     5. Add users to EC2 instances with SSH Access – Ansible
-    https://www.middlewareinventory.com/blog/add-users-to-ec2-instances-with-ssh-access-ansible/
+   
     
 ##
 ##
