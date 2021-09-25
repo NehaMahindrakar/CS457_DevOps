@@ -1,7 +1,7 @@
-<p align="center"># MID-TERM ASSIGNMENT
-## Submitted By: Team4</p>
+<p align="center"> ## MID-TERM ASSIGNMENT
+## Submitted By: Team4 </p>
 
-#Tasks:
+### Tasks:
 
 ## Assignment 1:
 	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
