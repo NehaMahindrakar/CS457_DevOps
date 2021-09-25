@@ -1,4 +1,3 @@
 # CS457_DevOps
 
-
-Repo link : https://github.com/neha-hash/DevOps
+Repo for Cs457_DevOps course 
