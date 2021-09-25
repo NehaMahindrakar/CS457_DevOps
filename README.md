@@ -2,5 +2,5 @@
 
 ##Repo for Cs457_DevOps course 
 
-1. Hackathon Completed (23/08/2021)<br>
-2. Mid -sem Assignments (25/09/202)<br>
+1. Hackathon Completed (26/08/2021)<br>
+2. Mid -sem Assignments Submiited (25/09/202)<br>
