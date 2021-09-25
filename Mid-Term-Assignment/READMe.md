@@ -1,7 +1,5 @@
 # DevOps-Assignments
 
-Working with Docker,Kubernetes and Ansible.
-
 ## Assignment 1:
 	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package 
 
@@ -16,7 +14,7 @@ Working with Docker,Kubernetes and Ansible.
     5. Add users to EC2 instances with SSH Access – Ansible
     
     
-    # By Team4 :
+## By Team4 :
 
 1.Sreehari Premkumar	18BEC045	https://github.com/sreeharipremkumar
 2.Neha Mahindrakar	18BEC032	https://github.com/NehaMahindrakar/CS457_DevOps
