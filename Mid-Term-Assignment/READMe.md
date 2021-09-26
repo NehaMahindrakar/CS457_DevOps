@@ -6,7 +6,7 @@
 ## Tasks:
 
 #### Assignment 1:
-	1. Use Kubernetes Helm  Package installer and perform installation, configuration and revision of Software package  
+	2. Developing and deploying a Node.js app from Docker to Kubernetes  
 
 		
 	
