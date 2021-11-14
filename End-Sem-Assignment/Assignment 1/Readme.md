@@ -8,7 +8,7 @@
     -Setup user group for CurrentUser and Jenkins
     -created Jenkins Pipeline script for continuous Deployment
 
-## [LINK TO DOCKERFILE AND WEBSITE CODE](https://github.com/sreeharipremkumar/dev_jenkins)
+## [LINK TO DOCKERFILE AND WEBSITE CODE](https://github.com/NehaMahindrakar/springboot-with-docker)
 
 ## Reference
 https://www.youtube.com/watch?v=TPMUxsRI1OA
