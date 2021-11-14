@@ -1,18 +1,12 @@
 # END-SEM DevOps ASSIGNMENT
 ## Submitted By: Team4
 			
-
-## Tasks:
-
-#### Assignment 1:
-	# MID-SEM DevOps ASSIGNMENT
-## Submitted By: Team4
 			
 
 ## Tasks:
 
 #### Assignment 1:
-		1. Set up complete CI/CD Jenkins pipeline for kubernetes 
+    1. Set up complete CI/CD Jenkins pipeline for kubernetes 
 
 		
 	
